@@ -1,0 +1,54 @@
+
+a	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(šıàùÿÿÿÿ
+K
+java:S3740§"/Provide the parametrized type for this generic.(¡˜ÑÜùÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×–¡Ÿşÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(òó×¤
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ËĞñä
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ì½æ©
+>
+java:S1659C"(Declare "outputLine" on a separate line.(ìáâÁ
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÃ÷§şÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ƒ°Ğ
+\
+java:S1075e"ARefactor your code to get this URI from a customizable parameter.( ÿ£Ìùÿÿÿÿ
+S
+java:S1197g"8Move the array designator from the variable to the type.(¯İÔÎşÿÿÿÿ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(¼Ü’ 
+O
+java:S1197†"8Move the array designator from the variable to the type.(ÿ³”¨
+_
+java:S2674‰"JCheck the return value of the "read" call to see how many bytes were read.(¤ü
+R
+java:S1854ª"6Remove this useless assignment to local variable "rm".(€šÉ†ÿÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(õ‹ªúÿÿÿÿ
+a
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(¥¨›ıÿÿÿÿ
+\
+java:S2147³"ECombine this catch with the one at line 175, which has the same body.(åşáÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+E
+java:S1481C"/Remove this unused "outputLine" local variable.(ìáâÁ
+C
+java:S1481ª"'Remove this unused "rm" local variable.(€šÉ†ÿÿÿÿÿ
+H
+java:S1068"-Remove this unused "_instance" private field.( œô¨ùÿÿÿÿ
+†
+java:S1319_"pThe type of the "response" object should be an interface such as "Map" rather than the implementation "HashMap".(‘£ãí
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141("5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘£ãí
+b
+java:S3973M"GUse indentation to denote the code conditionally executed by this "if".(Ì¡ÂÛÿÿÿÿÿ
+`
+java:S2095 "JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(óÌë²
+i
+java:S2095ˆ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ù Éşÿÿÿÿ
+8
+java:S2189&""Add an end condition to this loop.(›ûÅò
+M
+java:S2589&"7Remove this expression which always evaluates to "true"(›ûÅò

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moneylaunderingtool/2020-1-arsw-par1.iml" filepath="$PROJECT_DIR$/moneylaunderingtool/2020-1-arsw-par1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ARSW-MoneyLaunderingTest.iml" filepath="$PROJECT_DIR$/.idea/ARSW-MoneyLaunderingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moneylaunderingapi/moneylaunderingapi.iml" filepath="$PROJECT_DIR$/moneylaunderingapi/moneylaunderingapi.iml" />
+    </modules>
+  </component>
+</project>
